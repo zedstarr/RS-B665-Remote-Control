@@ -1,1 +1,5 @@
-Node-RED UI/dashboard that simply calls the scripts to turn on/off the relays
+Node-RED UI/dashboard for the Pi that simply calls the scripts to turn on/off the relays
+
+Connect to http://{Raspberry Pi IP address}:1800/ui/ 
+
+
