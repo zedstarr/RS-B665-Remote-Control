@@ -1,6 +1,6 @@
-# RS-B665-Remote-Control
+# Technics RS-B665 Cassette Deck Remote Control
 
-### Browser-based remote control of a Technics RS-B665 Cassette Tape Deck using a Raspberry Pi/Node-RED/relays.
+### Browser-based remote control of a Technics RS-B665 Cassette Tape Deck using a Raspberry Pi with Node-RED and some relays.
 
 Requires hardware hacking of the cassette deck - soldering a lead onto the control panel's main board connector and replicating the internal resistor chain to create appropriate REW/PLAY/FF/STOP signals to the deck.
 
@@ -9,7 +9,7 @@ See https://bit.ly/RS-B665 for full details.
 ![Technics RS-B665 remiote control montage](https://audiokarma.org/forums/index.php?media/screenshot-from-2021-01-28-14-15-18-collage.24609/full&lightbox=1&last_edit_date=1612186000)
 <br/><br/>  
 
-I appreciate the Pi is overkill to control a few relays but it's also streaming USB audio from a couple of other audio components too.
+I appreciate the Pi is overkill to control a few relays but it's already physically located with the tape deck as it's also streaming USB audio from a couple of other audio components too.
 ( https://zedstarr.com/2021/01/11/streaming-vinyl-audio-around-the-house-with-raspberry-pi-and-icecast-darkice/ )  
 <br/><br/>  
 
