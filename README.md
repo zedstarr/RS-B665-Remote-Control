@@ -13,7 +13,7 @@ I appreciate the Pi is overkill to control a few relays but it's already physica
 ( https://zedstarr.com/2021/01/11/streaming-vinyl-audio-around-the-house-with-raspberry-pi-and-icecast-darkice/ )  
 <br/><br/>  
 
-Also contained in the OPL directory is some Psion Series 3a OPL to connect wirelessly (via RS232-TTL-NodeMCU) to the Raspberry Pi and send R,P,F or S to REW/PLAY/FF or STOP the tape deck.
+Also contained in the OPL directory is some Psion Series 3a OPL & shell script to connect wirelessly (via RS232-TTL-NodeMCU) to the Raspberry Pi and send R,P,F or S to REW/PLAY/FF or STOP the tape deck.
 
 Requires 3-Link RS-232, 232/TTL converter and NodeMCU as AT-command/WiFi bridge to allow the 3a to talk to the Pi over the network.
 
